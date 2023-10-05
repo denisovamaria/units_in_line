@@ -5,8 +5,8 @@ using namespace std;
 int main() {
     int n;
     int k;
-    int result = 1;
-    int factor = 1;
+    int long long result = 1;
+    int long long factor = 1;
     cin >> n;
     cin >> k;
     if (k > n - k)
